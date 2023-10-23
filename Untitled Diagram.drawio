@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T17:22:36.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="R33Dsrf98ttTjA4tHUVU" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T17:33:10.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="xZ-Pf54f8ktItH3EWoc0" version="22.0.6" type="github" pages="2">
   <diagram name="Page-1" id="uRrn7Bry6k7l_UPKvo8q">
-    <mxGraphModel dx="1173" dy="603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#663300" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#009900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,6 +160,44 @@
         </mxCell>
         <mxCell id="gbzd4D8u9srlNk-zv_u8-60" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#fcfcfc&quot;&gt;EVENT PLANNER&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1000" y="353" width="134" height="29" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rpXjJ1rRi9gSa-Lqrjgv" name="Page-2">
+    <mxGraphModel dx="880" dy="452" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#009900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;EVENT PLANNING SYSTEM&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="389" y="255" width="171" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zzN5DHoqMMAgnJdIILUu-2" target="zzN5DHoqMMAgnJdIILUu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;ADMIN&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="20" width="233" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zzN5DHoqMMAgnJdIILUu-3" target="zzN5DHoqMMAgnJdIILUu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;EVENT PLANNER&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="683" y="182" width="201" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zzN5DHoqMMAgnJdIILUu-4" target="zzN5DHoqMMAgnJdIILUu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;CUSTOMER&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="172" width="226" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-13" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot;&gt;Inputs event requirements&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="204" y="290" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-14" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;Manages the system and the users&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="163" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzN5DHoqMMAgnJdIILUu-17" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;Receives event requirements&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
